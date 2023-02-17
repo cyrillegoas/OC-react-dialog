@@ -1,0 +1,28 @@
+{
+  "name": "oc-react-dialog",
+  "version": "1.0.0",
+  "description": "Dialog component for react",
+  "scripts": {
+    "build": "tsup",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Cyril le goas",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/cyrillegoas/OC-react-dialog.git"
+  },
+  "license": "ISC",
+  "devDependencies": {
+    "tsup": "^6.6.3"
+  },
+  "peerDependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "type": "module",
+  "main": "dist/index.cjs",
+  "module": "dist/index.js",
+  "files": [
+    "dist"
+  ]
+}
