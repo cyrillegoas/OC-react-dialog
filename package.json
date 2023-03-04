@@ -2,6 +2,11 @@
   "name": "oc-react-dialog",
   "version": "1.0.0",
   "description": "Dialog component for react",
+  "keywords": [
+    "react",
+    "dialog",
+    "modal"
+  ],
   "scripts": {
     "build": "tsup",
     "test": "echo \"Error: no test specified\" && exit 1"
